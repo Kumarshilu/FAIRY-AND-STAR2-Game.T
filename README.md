@@ -1,1 +1,1 @@
-# FAIRY-AND-STAR2-Game.T
+# Fairy-and-Stars
